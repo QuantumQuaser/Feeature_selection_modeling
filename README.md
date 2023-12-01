@@ -4,6 +4,8 @@
 </p>
 
 ## Table of Contents
+
+## [Key Workflow Steps in California Housing Price Prediction with Machine Learning]_(#Key-Workflow-Steps-in-California-Housing-Price-Prediction-with-Machine-Learning)
 1. [Project Overview](#project-overview)
 2. [Dataset Description](#dataset-description)
 3. [Technical Approach](#technical-approach)
@@ -13,6 +15,13 @@
 7. [How to Run the Project](#how-to-run-the-project)
 8. [Engaging Puzzle](#engaging-puzzle)
 9. [Conclusion](#conclusion)
+
+## Key Workflow Steps in California Housing Price Prediction with Machine Learning:
+
+## Data Loading And Splitting :
+
+
+
 
 ## Project Overview
 This Python project uses the California Housing dataset to predict housing prices. It demonstrates the application of machine learning techniques including feature selection, dimensionality reduction, and various regression models for accurate price prediction.
