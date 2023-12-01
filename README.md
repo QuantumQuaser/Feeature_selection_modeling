@@ -42,10 +42,20 @@ We evaluate model performance based on Mean Squared Error (MSE):
   <img src="Elements used/line chart.gif" width="400" height="400" /> <img src="Elements used/line chart.png" width="400" height="400" />
 
 ## Interpretation of Results
-- The Random Forest model shows the lowest MSE, particularly with RFE, indicating high prediction accuracy.
-- Linear and Ridge Regression have similar performance, with slightly higher MSE values.
-- Lasso Regression shows the highest MSE, suggesting it may not be the best fit for this dataset.
-- These observations help us understand how each model processes and predicts based on the dataset's complexity.
+
+
+| Model               | MSE (SelectKBest) | MSE (RFE)    | MSE (PCA)    | Interpretation                                             |
+|---------------------|-------------------|--------------|--------------|------------------------------------------------------------|
+| **Random Forest**   | 0.4487779         | 🏆 0.2386777 | 0.555144     | 🟢 **Best Performance** with RFE, highly accurate.          |
+| **Linear Regression** | 0.6382565       | 0.5667695    | 0.7431025    | 🔵 Consistent, slightly higher MSE.                         |
+| **Ridge Regression** | 0.6382133       | 0.5667326    | 0.7430998    | 🔵 Similar to Linear, slightly higher MSE.                  |
+| **Lasso Regression** | 1.3106960       | 1.3106960    | 1.3106960    | 🔴 Highest MSE, less suitable for this dataset.             |
+
+- 🏆 The **Random Forest** model, especially with RFE, shows the lowest MSE, indicating superior prediction accuracy.
+- 🔵 Both **Linear and Ridge Regression** models exhibit similar performances, with slightly higher MSE values than Random Forest.
+- 🔴 The **Lasso Regression** model displays the highest MSE, suggesting it's not as effective for this particular dataset.
+- These insights help us understand each model's capability in processing and predicting with the dataset's inherent complexity.
+
 
 ## How to Run the Project
 - Install Python and necessary libraries (scikit-learn etc.).
