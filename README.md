@@ -1,6 +1,6 @@
 # California Housing Price Prediction
 <p align="center">
- <img src="Elements used/Predicting California Housing Prices with Machine Learning.gif" width="600" height="400" />
+ <img src="Elements used/Predicting California Housing Prices with Machine Learning.gif" width="800" height="400" />
 </p>
 ## Table of Contents
 1. [Project Overview](#project-overview)
