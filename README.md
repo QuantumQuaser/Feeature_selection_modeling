@@ -1,5 +1,7 @@
 # California Housing Price Prediction
 
+ <img src="Elements used/Predicting California Housing Prices with Machine Learning.gif" width="600" height="600" />
+
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Dataset Description](#dataset-description)
@@ -39,7 +41,7 @@ We evaluate model performance based on Mean Squared Error (MSE):
   <img src="Elements used/bar chart gif.gif" width="400" height="400" /><img src="Elements used/bar chart.png" width="400" height="400" />
 - Line plots can also be effective in showing model performance over different feature selection methods.
   
-  <img src="Elements used/line chart.gif" width="400" height="400" /> <img src="Elements used/line chart.png" width="400" height="400" />
+  <img src="Elements used/line chart.gif" width="400" height="400" /><img src="Elements used/line chart.png" width="400" height="400" />
 
 ## Interpretation of Results
 
