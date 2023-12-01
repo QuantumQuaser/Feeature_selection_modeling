@@ -35,9 +35,9 @@ We evaluate model performance based on Mean Squared Error (MSE):
 
 ## Graphical Representation of Results
 - Visualize MSE values using bar charts for easy comparison.
-- <img src="Elements used/bar chart gif.gif" width="100" height="100" />
+- <img src="Elements used/bar chart gif.gif" width="300" height="300" />
 - Line plots can also be effective in showing model performance over different feature selection methods.
-- <img src="Elements used/line chart.gif" width="100" height="100" />
+- <img src="Elements used/line chart.gif" width="300" height="300" />
 
 ## Interpretation of Results
 - The Random Forest model shows the lowest MSE, particularly with RFE, indicating high prediction accuracy.
