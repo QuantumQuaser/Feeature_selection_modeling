@@ -5,7 +5,7 @@
 
 ## Key Workflow Steps in California Housing Price Prediction with Machine Learning:
 
- <img src="https://drive.google.com/file/d/1UNGc-HhfnI2Yp9EzEAAecqNLGDK_yvQX/view?usp=sharing" width="1000" height="400" />  <img src="https://drive.google.com/file/d/1o0Mw2tAtKYccwC6hYWyGbIiIqdCl7L8_/view?usp=sharing" width="1000" height="400" />
+ <img src="https://drive.google.com/file/d/1o0Mw2tAtKYccwC6hYWyGbIiIqdCl7L8/view?usp=sharing" width="1000" height="400" />  <img src="https://drive.google.com/file/d/1o0Mw2tAtKYccwC6hYWyGbIiIqdCl7L8_/view?usp=sharing" width="1000" height="400" />
 
 ## Table of Contents
 
