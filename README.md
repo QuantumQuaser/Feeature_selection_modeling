@@ -3,10 +3,6 @@
  <img src="Elements used/Predicting California Housing Prices with Machine Learning.gif" width="1000" height="400" />
 </p>
 
-## Key Workflow Steps in California Housing Price Prediction with Machine Learning:
-
- <img src="https://drive.google.com/file/d/1o0Mw2tAtKYccwC6hYWyGbIiIqdCl7L8/view?usp=sharing" width="1000" height="400" />  <img src="https://drive.google.com/file/d/1o0Mw2tAtKYccwC6hYWyGbIiIqdCl7L8_/view?usp=sharing" width="1000" height="400" />
-
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
@@ -18,11 +14,6 @@
 7. [How to Run the Project](#how-to-run-the-project)
 8. [Engaging Puzzle](#engaging-puzzle)
 9. [Conclusion](#conclusion)
-
-## Key Workflow Steps in California Housing Price Prediction with Machine Learning:
-
-## Data Loading And Splitting :
-
 
 
 
